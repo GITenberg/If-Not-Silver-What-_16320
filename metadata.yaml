@@ -1,0 +1,27 @@
+_repo: If-Not-Silver-What-_16320
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bookwalter, John W. (John Wesley)
+    birthdate: 1837
+    deathdate: 1915
+    gutenberg_agent_id: '6623'
+    url: http://www.gutenberg.org/2009/agents/6623
+description: ''
+gutenberg_issued: '2005-07-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16320'
+  lccn: '06022773'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Silver question'
+- !lcc 'HG'
+title: If Not Silver, What?
+url: http://www.gutenberg.org/ebooks/16320
